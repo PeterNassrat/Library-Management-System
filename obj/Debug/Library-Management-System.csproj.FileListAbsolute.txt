@@ -1,0 +1,42 @@
+D:\FCI\Study\3d Year - First Term\Visual Programming\Library-Management-System\bin\Debug\Library-Management-System.exe.config
+D:\FCI\Study\3d Year - First Term\Visual Programming\Library-Management-System\bin\Debug\Library-Management-System.exe
+D:\FCI\Study\3d Year - First Term\Visual Programming\Library-Management-System\bin\Debug\Library-Management-System.pdb
+D:\FCI\Study\3d Year - First Term\Visual Programming\Library-Management-System\obj\Debug\Library-Management-System.csproj.AssemblyReference.cache
+D:\FCI\Study\3d Year - First Term\Visual Programming\Library-Management-System\obj\Debug\Library-Management-System.csproj.SuggestedBindingRedirects.cache
+D:\FCI\Study\3d Year - First Term\Visual Programming\Library-Management-System\obj\Debug\Library_Management_System.LogIn.resources
+D:\FCI\Study\3d Year - First Term\Visual Programming\Library-Management-System\obj\Debug\Library_Management_System.Properties.Resources.resources
+D:\FCI\Study\3d Year - First Term\Visual Programming\Library-Management-System\obj\Debug\Library-Management-System.csproj.GenerateResource.cache
+D:\FCI\Study\3d Year - First Term\Visual Programming\Library-Management-System\obj\Debug\Library-Management-System.csproj.CoreCompileInputs.cache
+D:\FCI\Study\3d Year - First Term\Visual Programming\Library-Management-System\obj\Debug\Library-Management-System.exe
+D:\FCI\Study\3d Year - First Term\Visual Programming\Library-Management-System\obj\Debug\Library-Management-System.pdb
+D:\FCI\Study\3d Year - First Term\Visual Programming\Library-Management-System\bin\Debug\aa\Library-Management-System.resources.dll
+D:\FCI\Study\3d Year - First Term\Visual Programming\Library-Management-System\bin\Debug\en-US\Library-Management-System.resources.dll
+D:\FCI\Study\3d Year - First Term\Visual Programming\Library-Management-System\obj\Debug\Library_Management_System.LogIn.aa.resources
+D:\FCI\Study\3d Year - First Term\Visual Programming\Library-Management-System\obj\Debug\Library_Management_System.LogIn.en-US.resources
+D:\FCI\Study\3d Year - First Term\Visual Programming\Library-Management-System\obj\Debug\aa\Library-Management-System.resources.dll
+D:\FCI\Study\3d Year - First Term\Visual Programming\Library-Management-System\obj\Debug\en-US\Library-Management-System.resources.dll
+D:\FCI\Study\3d Year - First Term\Visual Programming\Library-Management-System\obj\Debug\Library_Management_System.HomePage.resources
+D:\FCI\Study\3d Year - First Term\Visual Programming\Library-Management-System\obj\Debug\Library_Management_System.BuyPage.resources
+D:\FCI\Study\3d Year - First Term\Visual Programming\Library-Management-System\obj\Debug\Library_Management_System.Registeration.resources
+D:\FCI\Study\3d Year - First Term\Visual Programming\Library-Management-System\obj\Debug\Library_Management_System.BookEntry.resources
+D:\FCI\Study\3d Year - First Term\Library-Management-System\bin\Debug\Library-Management-System.exe.config
+D:\FCI\Study\3d Year - First Term\Library-Management-System\bin\Debug\Library-Management-System.exe
+D:\FCI\Study\3d Year - First Term\Library-Management-System\bin\Debug\Library-Management-System.pdb
+D:\FCI\Study\3d Year - First Term\Library-Management-System\bin\Debug\aa\Library-Management-System.resources.dll
+D:\FCI\Study\3d Year - First Term\Library-Management-System\bin\Debug\en-US\Library-Management-System.resources.dll
+D:\FCI\Study\3d Year - First Term\Library-Management-System\obj\Debug\Library-Management-System.csproj.AssemblyReference.cache
+D:\FCI\Study\3d Year - First Term\Library-Management-System\obj\Debug\Library-Management-System.csproj.SuggestedBindingRedirects.cache
+D:\FCI\Study\3d Year - First Term\Library-Management-System\obj\Debug\Library_Management_System.BookEntry.resources
+D:\FCI\Study\3d Year - First Term\Library-Management-System\obj\Debug\Library_Management_System.BuyPage.resources
+D:\FCI\Study\3d Year - First Term\Library-Management-System\obj\Debug\Library_Management_System.HomePage.resources
+D:\FCI\Study\3d Year - First Term\Library-Management-System\obj\Debug\Library_Management_System.LogIn.resources
+D:\FCI\Study\3d Year - First Term\Library-Management-System\obj\Debug\Library_Management_System.Properties.Resources.resources
+D:\FCI\Study\3d Year - First Term\Library-Management-System\obj\Debug\Library_Management_System.Registeration.resources
+D:\FCI\Study\3d Year - First Term\Library-Management-System\obj\Debug\Library_Management_System.LogIn.aa.resources
+D:\FCI\Study\3d Year - First Term\Library-Management-System\obj\Debug\Library_Management_System.LogIn.en-US.resources
+D:\FCI\Study\3d Year - First Term\Library-Management-System\obj\Debug\Library-Management-System.csproj.GenerateResource.cache
+D:\FCI\Study\3d Year - First Term\Library-Management-System\obj\Debug\Library-Management-System.csproj.CoreCompileInputs.cache
+D:\FCI\Study\3d Year - First Term\Library-Management-System\obj\Debug\aa\Library-Management-System.resources.dll
+D:\FCI\Study\3d Year - First Term\Library-Management-System\obj\Debug\en-US\Library-Management-System.resources.dll
+D:\FCI\Study\3d Year - First Term\Library-Management-System\obj\Debug\Library-Management-System.exe
+D:\FCI\Study\3d Year - First Term\Library-Management-System\obj\Debug\Library-Management-System.pdb
