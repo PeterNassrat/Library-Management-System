@@ -3,7 +3,7 @@
 **Visual Programming Project:**\
 This is a Visual Programming project built with **C#** language using **Visual Studio** as a **Windows Forms App** executable on **Windows**.
 
-To open the Application you should **download** the **Library-Management-System.exe** file that **exists on bin\\Debug\\** and open it.\
+To open the Application you should **download** the **Library-Management-System.exe** file that **exists** on **bin\\Debug\\** and open it.\
 To open the Project **download all files** and open the **Library-Management-System.sln** file using **Visual Studio** that **supports Windows Forms App(.NET Framework)** and ensure that **(.NET 6.0 Framework) or higher is installed on your windows** and then run or edit the project.
 
 To login in the system use:\
